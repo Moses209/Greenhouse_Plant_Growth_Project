@@ -13,11 +13,7 @@ This dataset contains physiological and morphological measurements of plants col
  - Average plant height rate for both IoT and Traditional green house
  - Average wet weight of the growth vegetative for both IoT and Traditional green house
  - To check for the correlation between ACHP	and some other variable like 'PHR', 'AWWGV', 'ADWV' 'ADWR', 'AWWR'.  
-  **Creation of Tableau Dashboard**:
- - To show and compare  the average of chlorophyll in the plant for both IoT and Traditional green house 
- - To show and compare average plant height rate for both IoT and Traditional green house
- - To show and compare average wet weight of the growth vegetative for both IoT and Traditional green house
- - To so check how do IoT-based setups impact key growth indicators compared to traditional ones?
+ 
    
 # Features Inputs Will Be:
  - Random	Sample batch ID (e.g., R1, R2, R3):  An identifier for each record, likely indicating a random sample or batch (object type).
