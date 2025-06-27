@@ -7,13 +7,12 @@ This dataset contains physiological and morphological measurements of plants col
 # Aim Of The Project:
 "The project aims to determine whether IoT-based or traditional greenhouses are more suitable for plant growth by analyzing growth patterns and environmental sensor data to assess yield productivity."
 
-# Steps 1:
+# Steps:
  **To Analysis:**
  - Average of chlorophyll in the plant for both IoT and Traditional green house
  - Average plant height rate for both IoT and Traditional green house
  - Average wet weight of the growth vegetative for both IoT and Traditional green house
- - To check for the correlation between ACHP	and some other variable like 'PHR', 'AWWGV', 'ADWV' 'ADWR', 'AWWR'. 
- # Step 2:  
+ - To check for the correlation between ACHP	and some other variable like 'PHR', 'AWWGV', 'ADWV' 'ADWR', 'AWWR'.  
   **Creation of Tableau Dashboard**:
  - To show and compare  the average of chlorophyll in the plant for both IoT and Traditional green house 
  - To show and compare average plant height rate for both IoT and Traditional green house
@@ -47,21 +46,19 @@ This dataset contains physiological and morphological measurements of plants col
 -  Greenhouse_Dashboard.twb
 -  Link for the presentation at the bottom of this file.
    
-# Technologies To Be Use:
+# Technologies Used:
 
  - Python 3.x
  - Jupyter Notebook
+ - sample Visualizations in Tableau
+
+# Labraries Used
  - pandas
  - Seaborn
  - matplotlib
  - LabelEncoder, StandardScaler
 
-# Sample Visualizations
 
- - Average of chlorophyll in the plant for both IoT and Traditional green house
- - Average plant height rate for both IoT and Traditional green house
- - Average wet weight of the growth vegetative for both IoT and Traditional green house
- - To check for the correlation between ACHP	and some other variable like 'PHR', 'AWWGV', 'ADWV' 'ADWR', 'AWWR'. 
 
  - # Key Insights: 
  - However, even small improvements can matter in precision agriculture, especially if combined with other benefits (e.g., higher chlorophyll, resource efficiency).
