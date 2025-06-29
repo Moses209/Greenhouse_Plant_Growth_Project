@@ -41,6 +41,7 @@ This dataset contains physiological and morphological measurements of plants col
 -  Advanced_IoT_Dataset.csv: The original dataset.
 -  Greenhouse_Dashboard.twb
 -  Link for the presentation at the bottom of this file.
+-  Link to the data source at the bottom of this file.
    
 # Technologies Used:
 
@@ -57,7 +58,7 @@ This dataset contains physiological and morphological measurements of plants col
 
 
  - # Key Insights: 
- - However, even small improvements can matter in precision agriculture, especially if combined with other benefits (e.g., higher chlorophyll, resource efficiency).
+ - However, even small improvements in wet weight can matter in precision agriculture, especially if combined with other benefits (e.g., higher chlorophyll, resource efficiency).
  - Presentation for this project link: https://docs.google.com/presentation/d/19icCVRSpoQJCkQkcWkEOd7SFcxYrBWUxVZP1b05MvX0/edit?slide=id.gc6f90357f_0_0#slide=id.gc6f90357f_0_0
  - Link to the data source: https://www.kaggle.com/datasets/adilshamim8/greenhouse-plant-growth-metrics
  - Link for Tableau Dashboard: https://public.tableau.com/views/Greenhouse_Dashboard/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
